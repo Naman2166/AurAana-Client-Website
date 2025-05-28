@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';  // Add this import at the top
 export default function Hero() {
   return (
     <section className="relative bg-gradient-to-r from-[#f88c1f] to-[#f88c1f] text-white">
-      <div className="container flex justify-between mx-auto px-4 py-24 md:py-20 md:pt-20">
+      <div className="container flex justify-between mx-auto px-4 md:px-2 py-24 md:py-20 md:pt-20">
 
         <div className="max-w-3xl">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
