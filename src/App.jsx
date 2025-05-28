@@ -10,7 +10,7 @@ export default function App() {
   return (
     <Router>
       {/* Main container with hidden scrollbar */}
-      <div className="min-h-screen flex flex-col bg-gradient-to-r from-orange-500 to-orange-500 [scrollbar-width:none] [-ms-overflow-style:none]">
+      <div className="min-h-screen flex flex-col bg-[#f88c1f] [scrollbar-width:none] [-ms-overflow-style:none]">
         <Header />
         
         {/* Scrollable content area */}
