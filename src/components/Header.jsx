@@ -16,7 +16,7 @@ export default function Header() {
 
   return (
     <header className="bg-[#cd3609] bg-orange-300 sticky top-0 z-50 shadow-xl">
-      <div className="w-full container mx-auto sm:mx-4 px-2 flex items-center justify-between h-16">
+      <div className="w-full mx-auto sm:mx-4 px-2 flex items-center justify-between h-16">
 
         {/* Logo Section */}
         <div className="w-1/3 flex items-center">
