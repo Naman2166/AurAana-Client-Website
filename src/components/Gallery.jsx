@@ -12,7 +12,7 @@ export default function Gallery() {
     ];
   
     return (
-      <div className="py-12 mt-16 px-5 sm:px-20 mb-8">
+      <div className="py-12 mt-16 px-5 sm:px-16 mb-8">
         <h2 className="text-3xl text-white font-bold text-center mb-14 white">Our Food Truck Gallery</h2>
         
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8 px-4">
