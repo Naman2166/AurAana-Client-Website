@@ -58,7 +58,7 @@ export default function Header() {
 
         {/* Menu icon (Right aligned) */}
         <button
-          className="md:hidden text-white focus:outline-none"
+          className="md:hidden mr-4 text-white focus:outline-none"
           onClick={toggleMenu}
         >
           <svg className="h-9 w-9" fill="none" viewBox="0 0 24 24" stroke="currentColor">
