@@ -57,13 +57,13 @@ export default function Menu() {
                 </div>
               </div>
             </div>
-            
-            {/* Drinks */}
+
+            {/* French Fries */}
             <div>
-              <h3 className="text-2xl font-bold mb-6 text-white">Drinks</h3>
+              <h3 className="text-2xl font-bold mb-6 text-white">French Fries</h3>
               <div className="relative">
                 <div className="flex space-x-6 pb-4 overflow-x-auto scrollbar-hide">
-                  {menuItems.drinks.map(item => (
+                  {menuItems.frenchfries.map(item => (
                     <div key={item.id} className="flex-shrink-0 w-64">
                       <FoodItem item={item} />
                     </div>
@@ -73,12 +73,27 @@ export default function Menu() {
             </div>
 
 
-            {/* French Fries */}
+            {/* Burgers */}
             <div>
-              <h3 className="text-2xl font-bold mb-6 text-white">French Fries</h3>
+              <h3 className="text-2xl text-white font-bold mb-6 text-primary">Burgers</h3>
               <div className="relative">
                 <div className="flex space-x-6 pb-4 overflow-x-auto scrollbar-hide">
-                  {menuItems.frenchfries.map(item => (
+                  {menuItems.burgers.map(item => (
+                    <div key={item.id} className="flex-shrink-0 w-64">
+                      <FoodItem item={item} />
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            
+            {/* Drinks */}
+            <div>
+              <h3 className="text-2xl font-bold mb-6 text-white">Drinks</h3>
+              <div className="relative">
+                <div className="flex space-x-6 pb-4 overflow-x-auto scrollbar-hide">
+                  {menuItems.drinks.map(item => (
                     <div key={item.id} className="flex-shrink-0 w-64">
                       <FoodItem item={item} />
                     </div>
