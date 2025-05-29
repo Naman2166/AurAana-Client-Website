@@ -10,7 +10,7 @@ export default function SpecialOffer() {
             <span className='hidden sm:inline'>Special</span> Offer
           </span>
           <p className="text-orange-800 font-medium inline-block">
-            Get a Free Regular French Fries Coupon on order above <strong>₹150</strong>
+            Get a Free Regular French Fries Coupon on order above <strong>₹200</strong>
           </p>
         </div>
       </div>
