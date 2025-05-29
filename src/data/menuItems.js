@@ -3,14 +3,14 @@ import combo from '../assets/combo.jpeg';
 
 export const menuItems = {
   
-  // burgers: [
-    //   {
-    //     id: 1,
-    //     name: "Classic Veg Burger",
-    //     description: "Fresh bun with veg patty, lettuce, tomatoes, and sauce",
-    //     price: "₹80",
-    //     image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=900&q=80"
-    //   },
+  burgers: [
+      {
+        id: 1,
+        name: "Classic Veg Burger",
+        description: "Fresh bun with veg patty, lettuce, tomatoes, and sauce",
+        price: "₹60",
+        image: "https://img.freepik.com/free-photo/delicious-burger-studio_23-2151846496.jpg?ga=GA1.1.1938277686.1739460710&semt=ais_hybrid&w=740"
+      },
     //   {
     //     id: 2,
     //     name: "Spicy Chicken Burger",
@@ -32,7 +32,7 @@ export const menuItems = {
     //     price: "₹120",
     //     image: "https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=900&q=80"
     //   },
-    // ],
+     ],
     sandwiches: [
       {
         id: 1,
