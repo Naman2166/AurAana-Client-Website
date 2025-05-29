@@ -18,8 +18,8 @@ export default function Location() {
             <div>
               <h3 className="text-2xl text-black  font-bold text-primary mb-4">Hours</h3>
               <ul className="text-gray-950 space-y-2">
-                <li><strong>Monday-Friday:</strong> 11:00 AM - 10:00 PM</li>
-                <li><strong>Saturday-Sunday:</strong> 10:00 AM - 11:00 PM</li>
+                <li><strong>Monday-Friday:</strong> 4:00 PM - 10:00 PM</li>
+                <li><strong>Saturday-Sunday:</strong> 4:00 PM - 10:00 PM</li>
                 <li><strong>Holidays:</strong> Open unless announced</li>
               </ul>
             </div>
