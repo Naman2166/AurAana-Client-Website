@@ -35,6 +35,11 @@ export default function Home() {
       count: menuItems.frenchfries.length
     },
     {
+      name: "Burgers",
+      image: "https://img.freepik.com/free-photo/delicious-burger-studio_23-2151846496.jpg?ga=GA1.1.1938277686.1739460710&semt=ais_hybrid&w=740",
+      count: menuItems.burgers.length
+    },
+    {
       name: "Combo",
       image: combo,
       count: menuItems.combo.length
