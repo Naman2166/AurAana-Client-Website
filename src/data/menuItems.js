@@ -91,14 +91,14 @@ export const menuItems = {
         id: 1,
         name: "Coke",
         description: "Refreshing Cocacola",
-        price: "₹40",
+        price: "₹20",
         image: "https://images.unsplash.com/photo-1581098365948-6a5a912b7a49?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8"
       },
       {
         id: 2,
         name: "Sprite",
         description: "Refreshing Sprite",
-        price: "₹40",
+        price: "₹20",
         image: "https://www.shutterstock.com/image-photo/poznan-pol-apr-02-2025-260nw-2609599785.jpg"
       },
     ],
