@@ -13,7 +13,7 @@ export default function Footer() {
               <span className="mr-2">🍴</span> Aur Aana
             </h3>
             <p className="text-orange-100">
-              Serving delicious street food since 2015
+              Serving delicious street food since 2025
             </p>
           </div>
           
