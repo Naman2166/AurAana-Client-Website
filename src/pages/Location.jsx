@@ -8,7 +8,8 @@ export default function Location() {
             <div>
               <h3 className="text-2xl text-black font-bold text-primary mb-4">Location</h3>
               <p className="text-gray-950 mb-4">
-                In Front Of HDFC Bank<br />
+                In Front Of Bharat Petrol Pump,<br />
+                Near Buldhana Bank<br />
                 Barwaha (M.P.), 451115
               </p>
               <p className="text-gray-950">
