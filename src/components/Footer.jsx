@@ -46,7 +46,8 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-4  pb-2">Contact</h4>
             <address className="not-italic text-orange-100">
-              <p>In Front Of HDFC Bank</p>
+              <p>In Front Of Bharat Petrol Pump,</p>
+              <p>Near Buldhana Bank</p>
               <p>Barwaha (M.P.), 451115</p>
               <p className="mt-2">Phone: +91 7000069582</p>
             </address>
