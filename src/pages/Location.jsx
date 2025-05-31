@@ -36,7 +36,7 @@ export default function Location() {
               scrolling="no"
               marginHeight="0"
               marginWidth="0"
-              src="https://maps.google.com/maps?q=Barwaha%20HDFC&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://www.google.com/maps?q=22.2552706,76.0365635&hl=en&z=20&output=embed"
             ></iframe>
 
           </div>
